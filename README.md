@@ -1,5 +1,5 @@
-## ML Algorithm Synthesizing Domain Knowledge for Fungal Spores Concentration Prediction
-### Md Asif Bin Syed, [Azmine Toushik Wasi](https://azminewasi.github.io/), Imtiaz Ahmed
+# ML Algorithm Synthesizing Domain Knowledge for Fungal Spores Concentration Prediction
+### [Md Asif Bin Syed](https://www.linkedin.com/in/asifbinsyed/), [Azmine Toushik Wasi](https://azminewasi.github.io/), [Imtiaz Ahmed](https://www.linkedin.com/in/imtiazahmedtamuisen/)
 
 ---
 

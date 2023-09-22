@@ -1,15 +1,15 @@
-## ML Algorithm Synthesizing Domain Knowledge for Fungal Spores Concentration Prediction
-### Md Asif Bin Syed, [Azmine Toushik Wasi](https://azminewasi.github.io/), Imtiaz Ahmed
+## ProcessMiner QCRE Data Challenge Competition
+
+This document provides instructions on how to run the model for the **ProcessMiner QCRE Data Challenge Competition**.
 
 ---
 
-[![](https://img.shields.io/badge/Paper-Page-blue)](https://azminewasi.github.io/research/paper/qcre2023)
-[![](https://img.shields.io/badge/Download-PDF-cf1804)](https://azminewasi.github.io/research/paper/qcre2023/IISE_primary_technical_report.pdf)
-[![](https://img.shields.io/badge/Presentation-Slide-fc002a)](https://azminewasi.github.io/research/paper/qcre2023/QCRE_slides.pdf)
+# **A Knowledge guided ML Framework for Predicting Fungal Spore Concentration**
 
+### Md Asif Bin Syed, Azmine Toushik Wasi, and Imtiaz Ahmed
 
 ---
-
+---
 
 # Dataset Placement
 
@@ -55,11 +55,4 @@ After installing the modules, you can run the model by opening the `predictions.
 ---
 # Model Architecture
 
-![](model\figures\architecture.jpg)
-
-
----
-# Certificate
-
-![](images/certificate.jpg)
-
+![](figures\architecture.jpg)

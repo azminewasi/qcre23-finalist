@@ -1,0 +1,7 @@
+# platform: win-64
+
+# For model
+numpy=1.24.2=pypi_0
+pandas=1.5.3=pypi_0
+seaborn=0.11.2=pyhd3eb1b0_0
+scikit-learn=1.2.2=pypi_0

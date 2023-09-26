@@ -4,7 +4,9 @@
 ---
 
 [![](https://img.shields.io/badge/Paper-Page-blue)](https://azminewasi.github.io/research/paper/qcre2023)
-[![](https://img.shields.io/badge/Download-PDF-cf1804)](https://azminewasi.github.io/research/paper/qcre2023/IISE_primary_technical_report.pdf)
+[![](https://img.shields.io/badge/arXiv-Abstract-cf1804)](https://arxiv.org/abs/2309.13402)
+[![](https://img.shields.io/badge/Download-PDF-cf1804)](https://arxiv.org/pdf/2309.13402.pdf)
+[![](https://img.shields.io/badge/Official-Code-f15f2a1)](https://github.com/azminewasi/qcre23-finalist)
 [![](https://img.shields.io/badge/Presentation-Slide-fc002a)](https://azminewasi.github.io/research/paper/qcre2023/QCRE_slides.pdf)
 
 
@@ -55,7 +57,7 @@ After installing the modules, you can run the model by opening the `predictions.
 ---
 # Model Architecture
 
-![](model\figures\architecture.jpg)
+![](model/figures/architecture.jpg)
 
 
 ---
